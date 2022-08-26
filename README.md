@@ -3,7 +3,7 @@
 奶库:
 https://raw.githubusercontent.com/qhy5697062/emby/main/nako.png
 
-404Netcup:
+404:
 https://raw.githubusercontent.com/qhy5697062/emby/main/404.png
 
 黑山:
