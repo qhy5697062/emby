@@ -1,5 +1,11 @@
 # emby icons
 
+奶库:
+https://raw.githubusercontent.com/qhy5697062/emby/main/nako.png
+
+404Netcup:
+https://raw.githubusercontent.com/qhy5697062/emby/main/404.png
+
 黑山:
 https://raw.githubusercontent.com/qhy5697062/emby/main/heishan.png
 
