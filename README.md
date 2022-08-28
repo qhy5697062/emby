@@ -1,5 +1,8 @@
 # emby icons
 
+Orange: 
+https://raw.githubusercontent.com/qhy5697062/emby/main/orange.png
+
 奶库:
 https://raw.githubusercontent.com/qhy5697062/emby/main/nako.png
 
