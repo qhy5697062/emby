@@ -1,5 +1,8 @@
 # emby icons
 
+垃圾影音: 
+https://raw.githubusercontent.com/qhy5697062/emby/main/ljyy.png
+
 Orange: 
 https://raw.githubusercontent.com/qhy5697062/emby/main/orange.png
 
