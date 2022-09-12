@@ -1,5 +1,8 @@
 # emby icons
 
+NMFin: 
+https://raw.githubusercontent.com/qhy5697062/emby/main/NMFin.png
+
 垃圾影音: 
 https://raw.githubusercontent.com/qhy5697062/emby/main/ljyy.png
 
