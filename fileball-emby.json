@@ -3,6 +3,10 @@
     "description":"By qhy",
     "icons":[
         {
+            "name":"catfish",
+            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/catfish.png"
+        },
+        {
             "name":"Odyssey+",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/ody.png"
         },
