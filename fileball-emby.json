@@ -93,6 +93,10 @@
         {
             "name":"NMFin",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/NMFin.png"
+        },
+        {
+            "name":"catfish",
+            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/catfish.png"
         }
     ]
 }
