@@ -29,7 +29,7 @@
         {
             "name":"Misty",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/misty.png"
-        }
+        },
         {
             "name":"CcEmby",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/cc.png"
@@ -93,10 +93,6 @@
         {
             "name":"NMFin",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/NMFin.png"
-        },
-        {
-            "name":"catfish",
-            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/catfish.png"
         }
     ]
 }
