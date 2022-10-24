@@ -3,6 +3,10 @@
     "description":"By qhy",
     "icons":[
         {
+            "name":"gfw",
+            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/gfw.png"
+        },
+        {
             "name":"erciyuan",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/erciyuan.png"
         },
