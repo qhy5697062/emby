@@ -3,14 +3,6 @@
     "description":"By qhy",
     "icons":[
         {
-            "name":"csn",
-            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/csn.png"
-        },
-        {
-            "name":"csn_y",
-            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/csn_y.png"
-        },
-        {
             "name":"gfw",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/gfw.png"
         },
@@ -93,7 +85,15 @@
         {
             "name":"maoxiong",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/maoxiong.png"
-        },        
+        },       
+        {
+            "name":"csn",
+            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/csn.png"
+        },
+        {
+            "name":"csn_y",
+            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/csn_y.png"
+        },
         {
             "name":"Peach",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/peach.png"
