@@ -7,10 +7,6 @@
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/gfw.png"
         },
         {
-            "name":"erciyuan",
-            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/erciyuan.png"
-        },
-        {
             "name":"cherry",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/cherry.png"
         },
@@ -21,6 +17,10 @@
         {
             "name":"Singularity",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/Singularity.png"
+        },
+        {
+            "name":"erciyuan",
+            "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/erciyuan.png"
         },
         {
             "name":"catfish",
