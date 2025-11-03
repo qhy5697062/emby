@@ -3,6 +3,10 @@
     "description":"By qhy",
     "icons":[
         {
+            "name":"dada",
+            "url":"https://raw.githubusercontent.com/qhy5697062/emby/refs/heads/main/IMG_2470.jpeg"
+        },
+        {
             "name":"gfw",
             "url":"https://raw.githubusercontent.com/qhy5697062/emby/main/gfw.png"
         },
