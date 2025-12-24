@@ -3,6 +3,10 @@
     "description":"By Eric",
     "icons":[
         {
+            "name":"ong",
+            "url":"https://img.eric.us.kg/file/emby/1766543948331_IMG_20251224_103419_852.jpg"
+        },  
+        {
             "name":"nihao",
             "url":"https://img.eric.us.kg/file/emby/1765181504703_IMG_20251208_161119_083.jpg"
         },        
