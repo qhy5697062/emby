@@ -3,6 +3,10 @@
     "description":"By Eric",
     "icons":[
         {
+            "name":"chong",
+            "url":"https://img.eric.us.kg/file/emby/1771765677702_chong.png"
+        },  
+        {
             "name":"niubi",
             "url":"https://img.eric.us.kg/file/emby/1770210048052_niubi.png"
         },  
