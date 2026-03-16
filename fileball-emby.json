@@ -3,6 +3,10 @@
     "description":"By Eric",
     "icons":[
         {
+            "name":"ytsm",
+            "url":"https://img.eric.us.kg/file/emby/1773626610612_ytsm.png"
+        },  
+        {
             "name":"sdl+",
             "url":"https://img.eric.us.kg/file/emby/1773625792291_sdlp.png"
         },  
