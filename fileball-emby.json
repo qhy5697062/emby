@@ -3,6 +3,10 @@
     "description":"By Eric",
     "icons":[
         {
+            "name":"sdl+",
+            "url":"https://img.eric.us.kg/file/emby/1773625792291_sdlp.png"
+        },  
+        {
             "name":"fengyuege",
             "url":"https://img.eric.us.kg/file/emby/1772690196192_fengyuege.png"
         },  
